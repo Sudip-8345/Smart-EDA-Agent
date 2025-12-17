@@ -14,24 +14,8 @@ An intelligent Exploratory Data Analysis tool powered by AI. Upload any CSV file
 
 The main interface has a sidebar for file upload and model selection, with tabs for different analysis views.
 
-```
-+------------------------------------------------------------------+
-|  AI EDA Agent                                                    |
-+------------------------------------------------------------------+
-|  +----------+  +-----------------------------------------------+ |
-|  | Sidebar  |  |                                               | |
-|  |          |  |   Overview | Visualizations | Explorer        | |
-|  | AI Model |  |                                               | |
-|  | -------- |  |   +------------+  +------------+              | |
-|  | Upload   |  |   | Rows       |  | Columns    |              | |
-|  | CSV      |  |   | 1,000      |  | 15         |              | |
-|  |          |  |   +------------+  +------------+              | |
-|  | Quick    |  |                                               | |
-|  | Stats    |  |   Interactive Charts                         | |
-|  |          |  |   AI-Powered Insights                        | |
-|  +----------+  +-----------------------------------------------+ |
-+------------------------------------------------------------------+
-```
+<img width="1788" height="894" alt="image" src="https://github.com/user-attachments/assets/a09053c6-c934-42ad-a80e-1fecd7c1bfed" />
+
 
 ### Visualizations Tab
 - Correlation Heatmap - Identify relationships between variables
@@ -39,6 +23,10 @@ The main interface has a sidebar for file upload and model selection, with tabs 
 - Box Plots - Outlier detection and quartile analysis
 - Scatter Plots - Feature relationships with trend lines
 - Violin Plots - Distribution by category
+---
+<img width="1788" height="894" alt="image" src="https://github.com/user-attachments/assets/3e266268-631d-4fb4-a3b4-100883475c18" />
+
+
 
 ### AI Insights Tab
 - Analysis Plan - AI-generated data exploration strategy
@@ -60,7 +48,8 @@ The main interface has a sidebar for file upload and model selection, with tabs 
 | Local First | Works offline with Ollama models |
 
 ---
-
+<img width="1788" height="894" alt="image" src="https://github.com/user-attachments/assets/0e28e3ac-efd0-4f99-9866-7229fdb81b49" />
+---
 ## Tech Stack
 
 | Category | Technology |
@@ -124,7 +113,8 @@ python -m streamlit run streamlit_app.py
 Open http://localhost:8501 in your browser.
 
 ---
-
+<img width="1788" height="894" alt="image" src="https://github.com/user-attachments/assets/47ba785d-abd0-41b8-8b69-0d26bca458a8" />
+---
 ## Project Structure
 
 ```
