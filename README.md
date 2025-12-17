@@ -32,6 +32,8 @@ The main interface has a sidebar for file upload and model selection, with tabs 
 - Analysis Plan - AI-generated data exploration strategy
 - Key Insights - Actionable findings from your data
 - Plot Summaries - AI explanations for each visualization
+---
+<img width="1516" height="1058" alt="localhost_8501_" src="https://github.com/user-attachments/assets/1b44514c-d138-4f04-888f-c42e60dc3233" />
 
 ---
 
